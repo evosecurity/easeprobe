@@ -1,0 +1,14 @@
+name: easeprobe
+id: ari:cloud:compass:7ab74c8c-cdc7-47b4-ac42-498142383c41:component/e7890024-d21a-491e-8eed-88aeb93717f5/66a35a22-015e-4e99-a072-d4735deaf8b9
+description: A simple, standalone, and lightWeight tool that can do health/status checking, written in Go.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:go
+  - source:github
+customFields: null
